@@ -15,6 +15,8 @@ Please check the links by clicking on them.
 
 * [Correct Example 4](files/IE360_PS1_1-3-22.html): You can use the path and the file name only.
 
+* [Wrong Example](https://github.com/BU-IE-360/spring22-ilaydacelenkk/blob/gh-pages/IE360_PS1_1-3-22.html): Do not give the links with "blob" or "gh-pages". If you go to this link you **will not see** your homework report.
+
 
 ### Homework 1
 * [Description of Homework 1](IE360_Spring22_HW1.pdf): The .pdf file is in the same location with your index.md file.
